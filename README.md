@@ -1,41 +1,41 @@
 1.CORE TECHNICAL SKILLS 
   Power BI
-  Data Analysis
-  Data Visualization
-  Dashboard Development
-  Business Intelligence (BI)
-  Customer Churn Analysis
+  ,Data Analysis
+  ,Data Visualization
+  ,Dashboard Development
+  ,Business Intelligence (BI)
+  ,Customer Churn Analysis
 
 2.POWER BI–SPECIFIC SKILLS 
-  Data Importing in Power BI
-  Data Cleaning & Transformation
-  Power Query
-  DAX (Basic / Calculated Measures)
-  Interactive Dashboards
-  KPI & Metrics Visualization
+  ,Data Importing in Power BI
+  ,Data Cleaning & Transformation
+  ,Power Query
+  ,DAX (Basic / Calculated Measures)
+  ,Interactive Dashboards
+  ,KPI & Metrics Visualization
 
 3.ANALYTICAL SKILLS
-  Data Cleaning
-  Data Preprocessing
-  Exploratory Data Analysis (EDA)
-  Trend Analysis
-  Customer Segmentation
-  Churn Rate Analysis
+  ,Data Cleaning
+  ,Data Preprocessing
+  ,Exploratory Data Analysis (EDA)
+  ,Trend Analysis
+  ,Customer Segmentation
+  ,Churn Rate Analysis
 
 4.VISUALIZATION SKILLS
-  Bar Charts
-  Pie Charts
-  Line Charts
-  Histograms
-  Stacked Bar Charts
-  Heatmaps
+  ,Bar Charts
+  ,Pie Charts
+  ,Line Charts
+  ,Histograms
+  ,Stacked Bar Charts
+  ,Heatmaps
 
 5.TOOLS & SOFT SKILLS 
-  Microsoft Excel
-  Problem Solving
-  Analytical Thinking
-  Attention to Detail
-  Presentation Skills
+  ,Microsoft Excel
+  ,Problem Solving
+  ,Analytical Thinking
+  ,Attention to Detail
+  ,Presentation Skills
 
 6.Description
   This project focuses on building a Customer Churn Analysis Dashboard using Power BI for a telecommunications company. 
