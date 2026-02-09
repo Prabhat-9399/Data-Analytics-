@@ -48,4 +48,4 @@
   The project demonstrates practical skills in data analysis, visualization, and business intelligence using Power BI.
 
 7.Screenshot 
-Output = (https://github.com/Prabhat-9399/Data-Analytics-/blob/main/Churn%20Customer)
+Output = (https://github.com/Prabhat-9399/Data-Analytics-/blob/main/Churn%20Customer.png)
