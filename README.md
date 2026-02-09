@@ -46,3 +46,6 @@
   Key insights highlight higher churn among month-to-month contracts, electronic payment users, and short-tenure customers. 
   This dashboard helps stakeholders identify at-risk customers and design effective retention strategies. 
   The project demonstrates practical skills in data analysis, visualization, and business intelligence using Power BI.
+
+7.Screenshot 
+Output = (https://github.com/Prabhat-9399/Data-Analytics-/blob/main/Churn%20Customer)
